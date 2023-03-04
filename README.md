@@ -1,5 +1,5 @@
-# Interactive Recruitment Dashboard for Harvard Medical School & McLean Hospital's ANTARES laboratory
-A foundation for an R Shiny recruitment dashboard that is to be used at the Affective Neuroscience of Trauma and Resilience Lab (ANTARES) laboratory at Harvard Medical School and McLean Hospital for studying the effects of trauma on psychological behaviors in day-to-day lives.
+# Interactive Recruitment Dashboard for Harvard Medical School & McLean Hospital's ANTARES Laboratory
+A foundation for an R Shiny recruitment dashboard that is to be used at the Affective Neuroscience of Trauma and Resilience (ANTARES) laboratory at Harvard Medical School and McLean Hospital for studying the effects of trauma on psychological behaviors in day-to-day lives.
 
 Link to the laboratory's website to learn more about the research:
 https://antareslab.mclean.harvard.edu/
